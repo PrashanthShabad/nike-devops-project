@@ -36,12 +36,15 @@ docker run -d -p 8081:80 nike-devops-site
 
 Visit: http://localhost:8081
 
-
-## 👨‍💻 Author
+```
+# 👨‍💻 Author
 
 **Prashanth Shabad**  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashanth%20Shabad-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashanth-shabad-967160170) 
-📫 prashanth.shabad25@gmail.com
+📍 Jersey City, NJ  
+📫 prashanth.shabad25@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prashanth-shabad-967160170)
+
+
 
 
 

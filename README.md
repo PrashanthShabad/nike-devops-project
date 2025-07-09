@@ -32,8 +32,9 @@ nike-devops-project/
 docker build -t nike-devops-site .
 ```
 ### 2. Run Docker Container
+```bash
 docker run -d -p 8081:80 nike-devops-site
-
+```
 # Visit: http://localhost:8081
 
 ```

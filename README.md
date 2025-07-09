@@ -57,7 +57,7 @@ This project includes a Jenkins Declarative Pipeline for CI/CD automation.
 This setup simulates a real-world CI/CD environment and demonstrates your ability to automate deployments from source to container using Jenkins.
 
 
-```
+
 # 👨‍💻 Author
 
 **Prashanth Shabad**  

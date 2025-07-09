@@ -37,6 +37,27 @@ docker run -d -p 8081:80 nike-devops-site
 Visit: http://localhost:8081
 
 ```
+# 🔄 CI/CD with Jenkins
+
+This project includes a Jenkins Declarative Pipeline for CI/CD automation.
+
+- Jenkinsfile is located in the root of the repo
+- On each push to the `main` branch, Jenkins:
+  - Pulls the latest code from GitHub
+  - Builds the Docker image from the updated source
+  - Runs the container and exposes it on port 8082
+- Jenkins runs on a local instance and uses a freestyle pipeline job configured via GitHub integration
+
+📦 Sample pipeline stages:
+
+- Build Docker image
+- Run Docker container
+- Auto-deploy to localhost using NGINX
+
+This setup simulates a real-world CI/CD environment and demonstrates your ability to automate deployments from source to container using Jenkins.
+
+
+```
 # 👨‍💻 Author
 
 **Prashanth Shabad**  

@@ -37,7 +37,6 @@ docker run -d -p 8081:80 nike-devops-site
 ```
 # Visit: http://localhost:8081
 
-```
 # 🔄 CI/CD with Jenkins
 
 This project includes a Jenkins Declarative Pipeline for CI/CD automation.
